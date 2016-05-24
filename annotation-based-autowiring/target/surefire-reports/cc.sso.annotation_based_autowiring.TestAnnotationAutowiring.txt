@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: cc.sso.annotation_based_autowiring.TestAnnotationAutowiring
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.491 sec

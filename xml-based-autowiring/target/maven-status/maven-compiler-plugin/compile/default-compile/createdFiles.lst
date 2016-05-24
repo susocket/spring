@@ -1,0 +1,6 @@
+cc\sso\xml_based_autowiring\Account.class
+cc\sso\xml_based_autowiring\AccountDaoInMemoryImpl.class
+cc\sso\xml_based_autowiring\AccountServiceImpl.class
+cc\sso\xml_based_autowiring\AccountDao.class
+cc\sso\xml_based_autowiring\AccountDaoJdbcImpl.class
+cc\sso\xml_based_autowiring\AccountService.class
